@@ -1,0 +1,10 @@
+E:\Arbeit\Домашня робота\DBProvaiderFactoryApp\DBProvaiderFactoryApp\bin\Debug\DBProvaiderFactoryApp.exe.config
+E:\Arbeit\Домашня робота\DBProvaiderFactoryApp\DBProvaiderFactoryApp\bin\Debug\DBProvaiderFactoryApp.exe
+E:\Arbeit\Домашня робота\DBProvaiderFactoryApp\DBProvaiderFactoryApp\bin\Debug\DBProvaiderFactoryApp.pdb
+E:\Arbeit\Домашня робота\DBProvaiderFactoryApp\DBProvaiderFactoryApp\obj\Debug\DBProvaiderFactoryApp.csprojAssemblyReference.cache
+E:\Arbeit\Домашня робота\DBProvaiderFactoryApp\DBProvaiderFactoryApp\obj\Debug\DBProvaiderFactoryApp.Form1.resources
+E:\Arbeit\Домашня робота\DBProvaiderFactoryApp\DBProvaiderFactoryApp\obj\Debug\DBProvaiderFactoryApp.Properties.Resources.resources
+E:\Arbeit\Домашня робота\DBProvaiderFactoryApp\DBProvaiderFactoryApp\obj\Debug\DBProvaiderFactoryApp.csproj.GenerateResource.cache
+E:\Arbeit\Домашня робота\DBProvaiderFactoryApp\DBProvaiderFactoryApp\obj\Debug\DBProvaiderFactoryApp.csproj.CoreCompileInputs.cache
+E:\Arbeit\Домашня робота\DBProvaiderFactoryApp\DBProvaiderFactoryApp\obj\Debug\DBProvaiderFactoryApp.exe
+E:\Arbeit\Домашня робота\DBProvaiderFactoryApp\DBProvaiderFactoryApp\obj\Debug\DBProvaiderFactoryApp.pdb
